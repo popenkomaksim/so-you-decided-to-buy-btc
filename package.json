@@ -2,6 +2,7 @@
   "name": "app",
   "version": "0.0.0",
   "private": true,
+  "homepage" : "https://popenkomaksim.github.io/so-you-decided-to-buy-btc/",
   "dependencies": {
     "@firebase/app": "^0.1.4",
     "@firebase/auth": "^0.3.0",
